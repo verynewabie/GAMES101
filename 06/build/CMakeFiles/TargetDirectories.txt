@@ -1,0 +1,3 @@
+/home/ubuntu/GAMES101/06/build/CMakeFiles/RayTracing.dir
+/home/ubuntu/GAMES101/06/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/GAMES101/06/build/CMakeFiles/rebuild_cache.dir
